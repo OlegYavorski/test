@@ -1,0 +1,22 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegYavorski/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "OlegYavorski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegYavorski/test/issues"
+  },
+  "homepage": "https://github.com/OlegYavorski/test#readme"
+}
